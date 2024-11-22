@@ -1,2 +1,0 @@
-# Repositorio
-programas de clase 
